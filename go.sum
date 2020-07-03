@@ -1,0 +1,4 @@
+github.com/Nik-U/otcmerge v0.0.0-20200703002124-0b678d41c1a7 h1:V881uGknecBFDmeBELhFdsPpS4CCgtnjfZshiwIn0co=
+github.com/Nik-U/otcmerge v0.0.0-20200703002124-0b678d41c1a7/go.mod h1:DdLXhp80kIWZJyuI4oYDYvmqOzACwP0sY0SPSNNkMQs=
+golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208 h1:qwRHBd0NqMbJxfbotnDhm2ByMI1Shq4Y6oRJo21SGJA=
+golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
